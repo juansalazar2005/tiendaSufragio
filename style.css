@@ -1,3 +1,15 @@
 .carousell {
     height: 20em;
 }
+.logo {
+    height: 4.5rem;
+    width: 4.5rem;
+}
+#productos {
+    text-align: center;
+    font-size: 40px;
+    font-style: italic;
+}
+.searchInputFalse{
+    display: none;
+}
